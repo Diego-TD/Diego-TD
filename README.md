@@ -15,7 +15,7 @@
 - **DevOps**: Docker, GCP, Linux, Git
 - **Other Tools**: Bash, Postman, Figma, Android SDK
 
-Check out some of my projects below
+## :shipit: Check out some of my projects below
 
 
 
