@@ -1,36 +1,31 @@
 # Diego Torres Durante
-👋 Hi, I’m Diego, a Software Engineering student at CETYS University, currently focusing on backend development, infrastructure, and DevOps. I’m passionate about building scalable systems using technologies like Java, Go, Docker, and PostgreSQL.
+Hey, I'm Diego.
+I build web apps, APIs, and tools for businesses that need real software. Previously at Google. Currently shipping a restaurant operations platform and taking on freelance projects.
 
-- 🔭 I’m currently working on backend development and infrastructure projects.
-- 🌱 I’m learning more about infrastructure, DevOps, and distributed systems.
-- 👯 I’m driven to create value through impactful projects and tech solutions.
-- 💬 Ask me about anything about tech, studies and life!
-- 📫 How to reach me: diegotorresdurante@gmail.com
-- ⚡ Fun fact: I’m into self-improvement and love finding ways to optimize my life!
+[diegod.dev](https://diegod.dev)
 
-## 🔧 Technologies & Tools
-- **Languages**: Java, Go, JavaScript, PHP, TypeScript, C, C++
-- **Frameworks**: Spring Boot, Node.js, Symfony, React
-- **Databases**: MySQL, PostgreSQL
-- **DevOps**: Docker, GCP, Linux, Git
-- **Other Tools**: Bash, Postman, Figma, Android SDK
+---
+### What I build
+**Websites and landing pages.** Fast, bilingual, shipped in days. Not templates. Built for your brand.
 
-## :shipit: Check out some of my projects below
+**Business web apps.** Login, roles, dashboards, databases. When spreadsheets and Google Forms start costing you time.
 
+**Internal tools and automations.** APIs, reports, notifications. The stuff that connects your systems and cuts the manual work.
 
+### Recent work
+- **Expoingenieria** — Real-time evaluation platform for CETYS engineering expo. 750 evaluations, 40 judges, 39 projects. Built the first version in 25 days with Java Spring Boot, then rebuilt with React, Convex, and Clerk for the next edition.
 
+- **TechMastery** — Open-source digital safety tool. Map your accounts and devices, find weak points, get one practical next step. No passwords stored.
 
-<!--
-**Diego-TD/Diego-TD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Cosmic Classifier** — ML web app for classifying celestial objects. Python FastAPI model, React + Convex frontend.
 
-Here are some ideas to get you started:
+- **Comanda** — Restaurant operations platform (in progress). QR digital menu, real-time ordering, kitchen dashboard. Built for Mexican restaurants.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently
+- Building and selling B2B software in Ensenada
+- Open to freelance and consulting work
+
+### Reach me
+- Portfolio: [diegod.dev](https://diegod.dev)
+- LinkedIn: [linkedin.com/in/diego-torres-durante](https://linkedin.com/in/diego-torres-durante)
+- Email: diegotorresdurante@gmail.com
